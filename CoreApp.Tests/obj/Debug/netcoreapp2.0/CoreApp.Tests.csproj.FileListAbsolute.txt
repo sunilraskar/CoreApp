@@ -1,0 +1,16 @@
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/obj/Debug/netcoreapp2.0/CoreApp.Tests.csproj.CoreCompileInputs.cache
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/obj/Debug/netcoreapp2.0/CoreApp.Tests.AssemblyInfoInputs.cache
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/obj/Debug/netcoreapp2.0/CoreApp.Tests.AssemblyInfo.cs
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/bin/Debug/netcoreapp2.0/CoreApp.Tests.deps.json
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/bin/Debug/netcoreapp2.0/CoreApp.Tests.runtimeconfig.json
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/bin/Debug/netcoreapp2.0/CoreApp.Tests.runtimeconfig.dev.json
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/bin/Debug/netcoreapp2.0/CoreApp.Tests.dll
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/bin/Debug/netcoreapp2.0/CoreApp.Tests.pdb
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/bin/Debug/netcoreapp2.0/CoreApp.Web.dll
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/bin/Debug/netcoreapp2.0/CoreApp.Web.pdb
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/obj/Debug/netcoreapp2.0/CoreApp.Tests.csproj.CopyComplete
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/obj/Debug/netcoreapp2.0/CoreApp.Tests.dll
+/home/sunilr/Projects/CoreApp/CoreApp.Tests/obj/Debug/netcoreapp2.0/CoreApp.Tests.pdb

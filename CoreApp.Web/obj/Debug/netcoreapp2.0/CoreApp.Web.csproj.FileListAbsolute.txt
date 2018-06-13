@@ -1,0 +1,10 @@
+/home/sunilr/Projects/CoreApp/CoreApp.Web/bin/Debug/netcoreapp2.0/CoreApp.Web.deps.json
+/home/sunilr/Projects/CoreApp/CoreApp.Web/bin/Debug/netcoreapp2.0/CoreApp.Web.runtimeconfig.json
+/home/sunilr/Projects/CoreApp/CoreApp.Web/bin/Debug/netcoreapp2.0/CoreApp.Web.runtimeconfig.dev.json
+/home/sunilr/Projects/CoreApp/CoreApp.Web/bin/Debug/netcoreapp2.0/CoreApp.Web.dll
+/home/sunilr/Projects/CoreApp/CoreApp.Web/bin/Debug/netcoreapp2.0/CoreApp.Web.pdb
+/home/sunilr/Projects/CoreApp/CoreApp.Web/obj/Debug/netcoreapp2.0/CoreApp.Web.csproj.CoreCompileInputs.cache
+/home/sunilr/Projects/CoreApp/CoreApp.Web/obj/Debug/netcoreapp2.0/CoreApp.Web.AssemblyInfoInputs.cache
+/home/sunilr/Projects/CoreApp/CoreApp.Web/obj/Debug/netcoreapp2.0/CoreApp.Web.AssemblyInfo.cs
+/home/sunilr/Projects/CoreApp/CoreApp.Web/obj/Debug/netcoreapp2.0/CoreApp.Web.dll
+/home/sunilr/Projects/CoreApp/CoreApp.Web/obj/Debug/netcoreapp2.0/CoreApp.Web.pdb
