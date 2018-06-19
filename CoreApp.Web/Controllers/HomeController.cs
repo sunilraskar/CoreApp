@@ -24,7 +24,7 @@ namespace CoreApp.Web.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Testing the genkins auto build.";
+            ViewData["Message"] = "Jenkins test for auto build.";
 
             return View();
         }
